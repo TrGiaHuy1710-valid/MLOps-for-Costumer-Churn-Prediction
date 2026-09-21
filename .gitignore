@@ -1,0 +1,5 @@
+
+# Data files - managed by DVC, khong commit vao Git
+*.csv
+*.parquet
+*.zip
