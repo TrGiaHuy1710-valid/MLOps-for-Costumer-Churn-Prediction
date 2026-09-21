@@ -1,0 +1,5 @@
+outs:
+- md5: 4f1762ba06077d22d0b17f475d1682da
+  size: 525950
+  hash: md5
+  path: processed_period_1.parquet
